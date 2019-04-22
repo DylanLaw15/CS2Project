@@ -21,3 +21,11 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+*.suo
+*.db
+.vs/CS2Project/v15/Browse.VC.opendb
+*.filters
+CS2Project.vcxproj.user
+*.vcxproj
+CS2Project.sln
+graphLib2017.lib
